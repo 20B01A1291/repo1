@@ -1,1 +1,2 @@
 foking
+is used to transfering repositaries from one git hub to another git hub
